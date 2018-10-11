@@ -1,0 +1,18 @@
+body   {
+            font-family:sans-serif;
+            color:darkblue;
+            height:700px;
+        }
+        
+#shape {
+            height:250px;
+            background-color:rgb(36, 196, 36);
+            display:none;
+            position:relative;
+
+            }
+progres[value] {
+    -webkit-appearance:none;
+    height: 25px;
+    width: 400px;
+}
